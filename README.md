@@ -36,7 +36,7 @@ Select the Created Virtual Environment Before running the script.ipynb
 
 ```
 /
-├── main.py                # The primary automation script
+├── script.ipynb                # The primary automation script
 ├── Names.xlsx             # Excel file with a 'Names' column containing guest names (You need to add this)
 ├── Base.jpg               # Your high-res JPG card template (You need to add this)
 ├── Cormorant-Bold.otf     # Your chosen typography/calligraphy font (You need to add this)
